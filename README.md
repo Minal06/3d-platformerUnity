@@ -7,7 +7,7 @@ It's using the basic Unity Third Person core, with some changes and a few script
 
 It's based on CharacterController.
 
-Level is build using ProBuilder.
+Level is built using ProBuilder.
 
 if you want to try :
 
